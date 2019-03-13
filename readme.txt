@@ -1,0 +1,2 @@
+A simple alarm clock made just for fun in Python 3.7. A message box will appear when the alarm goes off.
+It uses separate threads to monitor the alarm and to update the clock on the GUI. TKinter is used for Windows GUI.
